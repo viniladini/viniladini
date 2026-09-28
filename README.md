@@ -2,7 +2,7 @@
 
 <kbd>Software Developer</kbd>
 
-Systems Analysis and Development student at IFSP focused on building efficient applications across both back-end and front-end environments. Transitioning into technology after a solid background in Supply Chain and Planning. Navigating highly complex corporate environments developed a strong analytical mindset, business acumen, and a knack for solving critical problems—skills I now apply directly to software engineering and translating business rules into clean, maintainable code. Practical experience in developing RESTful APIs, modeling relational databases, and creating dynamic web interfaces, with a strong foundation in Object-Oriented Programming (OOP) and data structures.
+Systems Analysis and Development student at IFSP, dedicated to building a strong foundation in software engineering. Currently focused on learning and applying Object-Oriented Programming (OOP), Data Structures, and Clean Code principles. My academic and personal projects span both back-end and front-end environments, where I am actively learning how to develop RESTful APIs, model relational databases, and create dynamic web interfaces. Always eager to explore new technologies, refine my problem-solving skills, and translate complex logic into efficient, maintainable code.
 
 ---
 
