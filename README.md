@@ -1,24 +1,23 @@
-# Olá, Mundo! Eu sou o Vinicius Ladini 👋
+# Vinicius Ladini
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFBD39&center=false&vCenter=true&width=435&lines=Estudante+de+ADS+no+IFSP;Backend+%7C+Dados+%7C+Engenharia;Construindo+solu%C3%A7%C3%B5es+em+c%C3%B3digo)](https://git.io/typing-svg)
+<kbd>Software Developer in Training</kbd>
 
-Combinando uma sólida bagagem analítica corporativa com o desenvolvimento de software. Focado em otimizar processos, resolver problemas complexos e criar tecnologias eficientes.
+Estudante de Análise e Desenvolvimento de Sistemas no IFSP com experiência consolidada em análise de dados e planeamento de materiais. Focado no desenho e manutenção de soluções eficientes, unindo o raciocínio analítico da indústria com o desenvolvimento tecnológico. Experiência na otimização de processos e resolução de problemas complexos. Atualmente focado no ecossistema de Desenvolvimento Backend, arquitetura de bases de dados e engenharia de software, construindo aplicações limpas e estruturadas.
 
-### 👨‍💻 Sobre mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **IFSP** (Campus Bragança Paulista).
-- ⚙️ Experiência prévia em Análise de Dados e Planejamento de Materiais.
-- 💡 Áreas de interesse: **Desenvolvimento Backend**, **Banco de Dados** e **Inteligência Artificial**.
-- 🌍 Idiomas: Português (Nativo) | Inglês (Avançado - C1) | Espanhol (Básico - A2).
+---
 
-### 🛠️ Minha Stack
+### 🧰 Languages and Tools
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" height="35" alt="GitHub" style="margin-right: 15px;" />
+</p>
 </p>
 
 ### 📊 Estatísticas
