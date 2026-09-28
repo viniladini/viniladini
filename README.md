@@ -1,8 +1,10 @@
 # Vinicius Ladini
 
-<kbd>Software Developer in Training</kbd>
+<kbd>Software Developer</kbd>
 
-Estudante de Análise e Desenvolvimento de Sistemas no IFSP com experiência consolidada em análise de dados e planeamento de materiais. Focado no desenho e manutenção de soluções eficientes, unindo o raciocínio analítico da indústria com o desenvolvimento tecnológico. Experiência na otimização de processos e resolução de problemas complexos. Atualmente focado no ecossistema de Desenvolvimento Backend, arquitetura de bases de dados e engenharia de software, construindo aplicações limpas e estruturadas.
+Desenvolvedor em formação e estudante de Análise e Desenvolvimento de Sistemas no IFSP. Apaixonado por criar arquiteturas escaláveis, estruturar bases de dados e desenvolver soluções orientadas a dados. Trago uma forte bagagem analítica para a engenharia de software, com foco na otimização de processos, performance e resolução de problemas complexos. Atualmente a aprofundar conhecimentos no ecossistema Backend (Python, Java), no desenvolvimento de APIs e na aplicação de boas práticas de engenharia de software para a construção de aplicações robustas.
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/viniciusladini)
 
 ---
 
@@ -16,10 +18,16 @@ Estudante de Análise e Desenvolvimento de Sistemas no IFSP com experiência con
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" style="margin-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" style="margin-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" style="margin-right: 15px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" height="35" alt="GitHub" style="margin-right: 15px;" />
-</p>
 </p>
 
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=viniladini&show_icons=true&theme=transparent&hide_border=true&title_color=ffbd39&icon_color=ffbd39&text_color=999999" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniladini&layout=compact&theme=transparent&hide_border=true&title_color=ffbd39&text_color=999999" alt="Linguagens Mais Usadas" height="150"/>
+</p>
 ### 📊 Estatísticas
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=viniladini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estatísticas do Vinicius" height="150"/>
