@@ -19,17 +19,3 @@ Desenvolvedor em formação e estudante de Análise e Desenvolvimento de Sistema
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" style="margin-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" style="margin-right: 15px;" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniladini&show_icons=true&theme=transparent&hide_border=true&title_color=ffbd39&icon_color=ffbd39&text_color=999999" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniladini&layout=compact&theme=transparent&hide_border=true&title_color=ffbd39&text_color=999999" alt="Linguagens Mais Usadas" height="150"/>
-</p>
-### 📊 Estatísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniladini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estatísticas do Vinicius" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniladini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Linguagens Mais Usadas" height="150"/>
-</p>
